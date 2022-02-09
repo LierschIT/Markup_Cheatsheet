@@ -1,5 +1,5 @@
 # Markdown Guide
-
+[toc]
 Markdown is a simple way to format text that looks great on any device. It doesn't do anything fancy like change the font size, color, or type — just the essentials, using keyboard symbols you already know. Since it is plain text, it is an easy way to author notes and documents and when needed it can be converted to a rich text HTML document.
 
 Joplin desktop and mobile applications can display both the Markdown text and the rendered rich text document.
