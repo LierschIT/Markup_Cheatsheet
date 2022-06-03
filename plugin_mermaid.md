@@ -47,7 +47,7 @@ Jesus-->>Alf: Für diesen Schwefel wirst du sterben.
 	Jesus-->>Alf: Für diesen Schwefel wirst du sterben.
 	````
 
-## Gant Diagram
+## Gantt Diagram
 ````mermaid
 gantt
 dateFormat YYYY-MM-DD
